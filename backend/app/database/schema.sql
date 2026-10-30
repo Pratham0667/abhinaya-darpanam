@@ -1,0 +1,4 @@
+-- Abhinaya Darpanam database schema
+-- Intentionally left as a design placeholder until we agree on entities and relationships.
+-- Planned: users, mudras, reference_samples, practice_sessions, recognition_results.
+-- pgvector extension and vector dimensions will be added in the database milestone.
